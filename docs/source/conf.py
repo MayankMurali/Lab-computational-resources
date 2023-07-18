@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Sheynkman Lab Computational Resources'
+copyright = '2023, Murali'
+author = 'Mayank Murali'
 
 release = '0.1'
 version = '0.1.0'

@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+Sheynkman Lab Computational Resources
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This is a tutorial/documentation for computational resources that are available at UVa. More specifically, it's geared for the computational needs of Sheynkman Lab. Involves in-house repositories and pipelines.

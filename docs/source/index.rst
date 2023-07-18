@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+Welcome to Sheynkman Lab computational resource tutorial!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Here you will find everything you need to know to get started with Sheynkman Lab computational resources and UVA's HPC called [Rivanna](https://www.rc.virginia.edu/userinfo/rivanna/overview/). 
 
-.. note::
+This short tutorial is geared towards getting the new graduate students or trainees acquainted with the HPC and Sheynkman lab-related computational resources.
 
-   This project is under active development.
 
-Contents
---------
 
-.. toctree::
+## Disclaimer
 
-   usage
-   api
+**DO NOT run this project on production systems.** This project is for educational
+purposes only. 
